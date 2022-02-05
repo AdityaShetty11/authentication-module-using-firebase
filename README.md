@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Necessary changes
+
+Before running the application, do create a src/firebase-config.js file with required configurations.
+
 ## Available Scripts
 
 In the project directory, you can run:
